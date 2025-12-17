@@ -1,6 +1,6 @@
-<h1 align="center"> 🚨 AI-powered phishing detection system 🚨 </h1>
+<h1 align="center"> 🚨 AI-POWERED-PHISHING-DETECTION-SYSTEM 🚨 </h1>
 
-![image](https://github.com/user-attachments/assets/cdfb7afc-6eeb-4fdb-9b26-6bcedc247ff4)
+![image](logo.JPEG)
 
 
 ##  ⚙️ About the Project 
@@ -99,8 +99,8 @@ Contributions are welcome! If you'd like to improve the system or add new featur
 
 ## 🌐 Connect with Me 
 
-- 📧 [Email](mailto:gauravghandat12@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/gaurav-ghandat-68a5a22b4)
+- 📧 [Email](basitkhan173@@gmail.com)
+- 💼 [LinkedIn](www.linkedin.com/in/abdul-basit-68a03a170)
 
 
 
